@@ -1,0 +1,36 @@
+.quantity-btn{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.card-content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.minus ,.plus{
+    cursor: pointer;
+    padding: 10px 5px;
+    border-radius: 5px;
+    background-color: rgb(21, 132, 223);
+    width: 30%;
+    border: none;
+}
+.remove{
+    width: 100%;
+
+
+}
+.remove-button{
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    padding: 8px;
+    border-radius: 8px;
+    border:  none;
+}

@@ -1,0 +1,34 @@
+.card-list{
+    position: fixed;
+    top: 80px;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 25%;
+    background-color: rgba(255, 255, 255, 0.8);
+    right: 0;
+    z-index: 999999;
+    display: none;
+
+ 
+
+}
+.item-card-list{
+    padding: 6px;
+    margin-bottom: 8px;
+    height: 25%;
+}
+.image-card-list{
+    height: 60%;
+    object-fit: cover;
+    margin-bottom: 4px;
+}
+.image-card-list img{
+    height: 100;
+}
+.content-card-list,
+.count-item-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}

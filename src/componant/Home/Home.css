@@ -1,0 +1,16 @@
+.home{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.title{
+    margin-bottom: 50px;
+    color: rgb(21, 132, 223);
+}
+.stor{
+    color: rgb(21, 38, 223);
+}
