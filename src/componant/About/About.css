@@ -13,3 +13,11 @@
 .my-name{
     color: blue;
 }
+@media (max-width: 768px) {
+    .about-title{
+        text-align: center;
+    }
+    .my-name{
+        display: block;
+    }
+}

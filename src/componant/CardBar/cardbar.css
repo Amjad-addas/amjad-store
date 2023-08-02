@@ -12,6 +12,16 @@
  
 
 }
+@media (max-width: 768px) {
+    .card-list{
+        width: 100%;
+    }.empty{
+        position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+    }
+}
 .item-card-list{
     padding: 6px;
     margin-bottom: 8px;
