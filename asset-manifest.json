@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/amjad-store/static/css/main.68002ac0.css",
-    "main.js": "/amjad-store/static/js/main.b3baa947.js",
+    "main.css": "/amjad-store/static/css/main.85b668f3.css",
+    "main.js": "/amjad-store/static/js/main.b5f2a2ab.js",
     "index.html": "/amjad-store/index.html",
-    "main.68002ac0.css.map": "/amjad-store/static/css/main.68002ac0.css.map",
-    "main.b3baa947.js.map": "/amjad-store/static/js/main.b3baa947.js.map"
+    "main.85b668f3.css.map": "/amjad-store/static/css/main.85b668f3.css.map",
+    "main.b5f2a2ab.js.map": "/amjad-store/static/js/main.b5f2a2ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.68002ac0.css",
-    "static/js/main.b3baa947.js"
+    "static/css/main.85b668f3.css",
+    "static/js/main.b5f2a2ab.js"
   ]
 }
